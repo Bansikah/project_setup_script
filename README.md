@@ -24,11 +24,13 @@ bash init_project.sh
 
 The script will create the following structure for your project:
 project_name/
+\```
 ├── project_name.py (for Python projects)
 ├── project_name.sh (for Bash projects)
 ├── venv/ (for Python projects)
 ├── README.md
 └── requirements.txt (for Python projects)
+\```
 ## Python Project Setup
 
 If you choose Python as the project type, the script will:
