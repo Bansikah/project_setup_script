@@ -54,4 +54,4 @@ echo "3. Start working with the project." >> README.md
 echo "# $project_name" >> README.md
 
 # Move script to directory in PATH
-sudo mv "$0" /usr/local/bin
+mv "$0" /usr/local/bin
