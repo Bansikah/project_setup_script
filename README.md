@@ -52,6 +52,5 @@ If you choose Bash as the project type, the script will:
 1. Clone the repository.
 2. Follow the setup instructions in the README.
 3. Start working with the project.
-
 ---
 
