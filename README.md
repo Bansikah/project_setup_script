@@ -16,7 +16,7 @@ This script sets up a new local project environment tailored for Python or Bash 
 1. Open a terminal.
 2. Navigate to the directory where you want to create your project.
 3. Run the following command:
-bash project_setup.sh
+bash init_project.sh
 4. Follow the prompts to enter the project name and type (Python or Bash).
 5. The script will create the project directory and generate the necessary files based on your inputs.
 
@@ -37,7 +37,7 @@ If you choose Python as the project type, the script will:
 - Set up a virtual environment ( `venv` ) using  `python3 -m venv` .
 - Activate the virtual environment using  `source venv/bin/activate` .
 - Generate a README with setup instructions for Python projects.
-- Create a  `requirements.txt`  file with pre-populated dependencies ( `numpy` ,  `pandas` ,  `python3` ).
+- Create a  `requirements.txt`  file with pre-populated dependencies ( `numpy` ,  `pandas` ).
 
 ## Bash Project Setup
 
@@ -54,3 +54,4 @@ If you choose Bash as the project type, the script will:
 3. Start working with the project.
 
 ---
+

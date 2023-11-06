@@ -6,4 +6,3 @@
 1. Clone the repository.
 2. Follow the setup instructions in the README.
 3. Start working with the project.
-# flask_app
